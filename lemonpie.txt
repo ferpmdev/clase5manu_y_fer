@@ -1,5 +1,6 @@
 es de exprimon limido, y crema chantilli
 
+<<<<<<< HEAD
 PARA EL RELLENO
 1 taza de agua
 1 taza de azúcar
@@ -8,3 +9,13 @@ PARA EL RELLENO
 4 yemas
 4 cucharadas de manteca
 Ralladura de 1 limón
+=======
+Ingredientes para la masa:
+
+100 g de manteca blanda
+1 yema
+2 cucharadas de azúcar
+2 cucharadas de agua fría
+1 cucharada de vinagre
+1 taza de harina
+>>>>>>> bd0905e87876ebae16f0db2533ffd6f87d3f18f8
